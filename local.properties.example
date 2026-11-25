@@ -1,0 +1,7 @@
+# 本机 Android SDK 路径（由 Android Studio 自动生成或手动指定）
+sdk.dir=C\:\\Android\\Sdk
+
+# 可选：若希望在本地自编译版本中预置免费云端 AI Key（如智谱 GLM），可取消下方注释。
+# 注意：local.properties 已被 .gitignore 忽略，严禁提交到任何公开仓库！
+# 开源版默认内置「纯端侧极速引擎 + 离线 llama.cpp GGUF」，云端 Key 也可在 App「设置 → AI 引擎」随时填写。
+# ZHIPU_FREE_API_KEY=your_api_key_here

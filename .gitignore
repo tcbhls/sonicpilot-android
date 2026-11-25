@@ -1,0 +1,25 @@
+# Gradle & Android Build
+.gradle/
+build/
+app/build/
+captures/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Local SDK & Secrets（含本机 Android SDK 路径、私有 API Key 与个人预置曲库，禁止提交）
+local.properties
+app/src/main/assets/seed_favorites.json
+*.jks
+*.keystore
+.kotlin/
+
+# IDE & OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.hprof
+*.log

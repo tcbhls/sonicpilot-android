@@ -1,0 +1,22 @@
+{
+  "name": "音枢社区扩展渠道示例订阅",
+  "version": "1.0",
+  "channels": [
+    {
+      "id": "gd_netease_mirror",
+      "name": "GD 音乐台 · 网易云备用节点",
+      "type": "GDSTUDIO",
+      "baseUrl": "https://music-api.gdstudio.xyz/api.php",
+      "sourceKey": "netease",
+      "description": "GDStudio 公共无损接口备用配置"
+    },
+    {
+      "id": "meting_custom_example",
+      "name": "自建 Meting 无损节点（示例）",
+      "type": "METING",
+      "baseUrl": "https://api.injahow.cn/meting",
+      "sourceKey": "netease",
+      "description": "可替换为自己的 Docker / Cloudflare Worker 自建 meting-api 地址"
+    }
+  ]
+}

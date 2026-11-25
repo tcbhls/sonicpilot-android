@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 方案 D · 暖瓷瑞士极简生态 · 音枢 AI 音乐（SonicPilot） -->
+    <!-- 开口黑胶圆环（左下预留唱针信号缺口，严格位于 66dp 自适应安全圆内） -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#181C23"
+        android:strokeWidth="5.1"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M31.94,61.17 A23.2,23.2 0 1,1 47.61,76.30" />
+    <!-- 三柱律动声波胶囊 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#181C23"
+        android:strokeWidth="4.9"
+        android:strokeLineCap="round"
+        android:pathData="M45.8,49.0 L45.8,57.4" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#181C23"
+        android:strokeWidth="4.9"
+        android:strokeLineCap="round"
+        android:pathData="M54.0,41.8 L54.0,64.2" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#181C23"
+        android:strokeWidth="4.9"
+        android:strokeLineCap="round"
+        android:pathData="M62.2,46.2 L62.2,60.0" />
+    <!-- 绯红信号核心圆点（生态三原色 · 红） -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M36.6,63.9 A5.9,5.9 0 1,0 36.6,75.7 A5.9,5.9 0 1,0 36.6,63.9 Z" />
+</vector>
